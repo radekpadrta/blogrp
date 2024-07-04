@@ -1,0 +1,127 @@
+baseURL: "https://www.radekpadrta.cz/"
+title: Radek Padrta
+paginate: 20
+theme: hugo-PaperModX
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: true
+buildExpired: true
+pygmentsUseClasses: true
+
+googleAnalytics: G-BGXYV0CH1C
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Radek Padrta - Blog
+  description: "Writing about the things I learn in my journey"
+  keywords:
+    [
+      Blog,
+      Portfolio,
+      CV,
+      DevOps,
+      Zettelkasten,
+      Second Brain,
+      Linux,
+      Azure,
+      Productivity,
+      Gym,
+      Healt,
+      Personal Growth,
+      Journey,
+    ]
+  author: Radek Padrta
+  images: ["https://radekapadrta.cz/cloud-blue-logo.jpeg"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: Journey
+    subtitle: "A place to share my thoughts"
+    imageUrl: "https://github.com/radekapadrta/bzg/blob/main/static/k8s.png"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Blog
+        url: archives
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Stay tuned! Exciting content is on the way..
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/radekpadrta/"
+    - name: github
+      url: "https://github.com/radekpadrta"
+    - name: mdi-resume
+      #url: "https://cv.radekpadrta.cz"  
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: About
+      name: "About"
+      url: /aboutme/
+      weight: 10
+
+    - identifier: Tags
+      name: Tags
+      url: /tags/
+      weight: 20
+      
+    - identifier: "Index"
+      name: "Index"
+      url: /archives/
+      weight: 30
+
+    - identifier: Search
+      name: 🔍
+      url: /search/
+      weight: 50
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary

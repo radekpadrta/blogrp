@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AZ104 on Radek Padrta</title>
+    <link>http://localhost:1313/tags/az104/</link>
+    <description>Recent content in AZ104 on Radek Padrta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/az104/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Road to AZ104</title>
+      <link>http://localhost:1313/zet/articles/road-to-az104/</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zet/articles/road-to-az104/</guid>
+      <description>I started to prepare for a new certification, AZ-104. As a Cloud Engineer who mainly works with Azure, this certification is one of the must-haves.
+I made it as my main quest for this month to push myself and stay committed, I already scheduled the onsite exam for July 29th at 8 AM. I believe that early time is the best for me to be sharp and this gives me 25 days to prepare.</description>
+      <content:encoded><![CDATA[<p>I started to prepare for a new certification, AZ-104. As a Cloud Engineer who mainly works with Azure, this certification is one of the must-haves.</p>
+<p>I made it as my main quest for this month to push myself and stay committed, I already scheduled the onsite exam for July 29th at 8 AM. I believe that early time is the best for me to be sharp and this gives me 25 days to prepare. It&rsquo;s not much time to prepare. If you have full time job and energetic girlfriend.</p>
+<h3 id="my-study-plan">My study plan</h3>
+<p>My study plan is a bit different from others certifications. I want to focus mainly on practice exams and analyze the areas where I failed during the exams. This should help me better understand the topics where I am weak, allowing me to skip over the things that don&rsquo;t need much improvement.</p>
+<h3 id="first-practice-exam-attempt">First Practice Exam Attempt</h3>
+<p>I made my first attempt today on the Azure portal and scored only 44%.</p>
+<p>However, I don&rsquo;t feel bad about it. Scoring 44% on the first attempt is good, and I realized that I was just making some dumb mistakes and I was a bit hurry. Looking forward to next improvements.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
