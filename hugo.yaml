@@ -36,6 +36,8 @@ params:
       Journey,
     ]
   author: Radek Padrta
+  logo:
+    icon: cloudhammer.svg
   images: ["https://radekapadrta.cz/cloud-blue-logo.jpeg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
