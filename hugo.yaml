@@ -82,7 +82,7 @@ params:
     - name: github
       url: "https://github.com/radekpadrta"
     - name: mdi-resume
-      #url: "https://cv.radekpadrta.cz"  
+      url: "https://www.cv.radekpadrta.cz"  
 
   cover:
     hidden: false # hide everywhere but not in structured data
