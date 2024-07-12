@@ -32,11 +32,12 @@ In the AI world, we wanted to have one place where we could build our AI solutio
 <p>The Environment for building our model needs to be somehow added to the endpoint, and the environment is something that will handle the deployment. If you remember from the start, I mentioned that our use case also needed a translator, right? This is a small problem for the environment because we can&rsquo;t use a pre-built environment and we need to create our own.</p>
 <h3 id="why">Why?</h3>
 <p>The translator isn&rsquo;t included by default in Prompt Flow, but you can install packages in Prompt Flow. That is why you need to have the package also in your environment. We used a predefined image and we added the RUN command for the translator package. That is how we built the environment through Dockerfile and ACR. We hosted the Docker image in Azure Container Registry.</p>
-<p>Ok, we have Prompt Flow (Builds) -&gt; Model -&gt; Endpoint (Empty) -&gt; Environment. So what is the next and the last step to push travelers(request) to the castle(endpoint) ?</p>
+<p>Ok, we have Prompt Flow (Builds) - Model - Endpoint (Empty) - Environment. So what is the next and the last step to push travelers(request) to the castle(endpoint) ?</p>
 <h3 id="deployment-facing-the-final-boss">Deployment: Facing the Final Boss</h3>
 <p>Deployment
-This is last boss who is waiting for us and need to be finished. Here we need to gather all the information about our previous road -&gt; model, environment, and the endpoint need to be entered to the deployment, but we also need to provide SKU (VM) and assign the traffic.</p>
+This is last boss who is waiting for us and need to be finished. Here we need to gather all the information about our previous road - model, environment, and the endpoint need to be entered to the deployment, but we also need to provide SKU (VM) and assign the traffic.</p>
 <p>Then if we get green light, the boss is finished and our castle can welcome travelers.</p>
+<p>More about the project will be added soon.</p>
 ]]></content:encoded>
     </item>
     

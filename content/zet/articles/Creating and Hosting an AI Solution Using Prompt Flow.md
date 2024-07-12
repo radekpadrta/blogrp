@@ -37,11 +37,13 @@ The Environment for building our model needs to be somehow added to the endpoint
 
 The translator isn't included by default in Prompt Flow, but you can install packages in Prompt Flow. That is why you need to have the package also in your environment. We used a predefined image and we added the RUN command for the translator package. That is how we built the environment through Dockerfile and ACR. We hosted the Docker image in Azure Container Registry.
 
-Ok, we have Prompt Flow (Builds) -> Model -> Endpoint (Empty) -> Environment. So what is the next and the last step to push travelers(request) to the castle(endpoint) ?
+Ok, we have Prompt Flow (Builds) - Model - Endpoint (Empty) - Environment. So what is the next and the last step to push travelers(request) to the castle(endpoint) ?
 
 ### Deployment: Facing the Final Boss
 
 Deployment 
-This is last boss who is waiting for us and need to be finished. Here we need to gather all the information about our previous road -> model, environment, and the endpoint need to be entered to the deployment, but we also need to provide SKU (VM) and assign the traffic. 
+This is last boss who is waiting for us and need to be finished. Here we need to gather all the information about our previous road - model, environment, and the endpoint need to be entered to the deployment, but we also need to provide SKU (VM) and assign the traffic. 
 
 Then if we get green light, the boss is finished and our castle can welcome travelers.
+
+More about the project will be added soon.
