@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLMOps on Radek Padrta</title>
+    <link>http://localhost:1313/tags/llmops/</link>
+    <description>Recent content in LLMOps on Radek Padrta</description>
+    <image>
+      <url>http://localhost:1313/cloudhammer.svg</url>
+      <link>http://localhost:1313/cloudhammer.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/llmops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating and Hosting an AI Solution Using Prompt Flow</title>
+      <link>http://localhost:1313/zet/articles/creating-and-hosting-an-ai-solution-using-prompt-flow/</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zet/articles/creating-and-hosting-an-ai-solution-using-prompt-flow/</guid>
+      <description>Creating and Hosting an AI Solution Using Prompt Flow Let&amp;rsquo;s talk about why we chose the Prompt Flow. In the AI world, we wanted to have one place where we could build our AI solutions and we wanted to have platform where other developers could easily collaborate. And this is a great use case for Prompt Flow, which works as an orchestration tool for our builds.
+We built two solutions. Our vision was to get metadata from some article and alternative text from pictures, and then each solution needed a final step: a translator to translate the results into different languages.</description>
+      <content:encoded><![CDATA[<h2 id="creating-and-hosting-an-ai-solution-using-prompt-flow">Creating and Hosting an AI Solution Using Prompt Flow</h2>
+<p>Let&rsquo;s talk about why we chose the Prompt Flow.
+In the AI world, we wanted to have one place where we could build our AI solutions and  we wanted to have platform where other developers could easily collaborate. And this is a great use case for Prompt Flow, which works as an orchestration tool for our builds.</p>
+<p>We built two solutions. Our vision was to get metadata from some article and alternative text from pictures, and then each solution needed a final step: a translator to translate the results into different languages.</p>
+<p>And these two solutions were created through the Prompt Flow. <a href="https://github.com/radekpadrta/MamboJambo_PromptFlow">Source code here</a></p>
+<p>When we built the solution through Prompt Flow, our next step was to create an endpoint where the solution could be hosted and wait for travelers (requests).</p>
+<h3 id="how-did-we-do-that">How Did We Do That?</h3>
+<p>When we create builds on Prompt flow, we used the Machine Learning Workspace, which also has an option to create the endpoint. Creating the endpoint was a simple task, but how could we assign the Prompt Flow solution to the endpoint, right?</p>
+<h3 id="where-the-fun-begins">Where the Fun Begins</h3>
+<p>The solution needs to be packaged first, and that the need for us to create a <strong>model</strong> in MLW. It means: Prompt Flow build become a Model. Once we have the model, we can create an empty endpoint, which will wait for our model. However, to complete this, we need to create an Environment.</p>
+<p>The Environment for building our model needs to be somehow added to the endpoint, and the environment is something that will handle the deployment. If you remember from the start, I mentioned that our use case also needed a translator, right? This is a small problem for the environment because we can&rsquo;t use a pre-built environment and we need to create our own.</p>
+<h3 id="why">Why?</h3>
+<p>The translator isn&rsquo;t included by default in Prompt Flow, but you can install packages in Prompt Flow. That is why you need to have the package also in your environment. We used a predefined image and we added the RUN command for the translator package. That is how we built the environment through Dockerfile and ACR. We hosted the Docker image in Azure Container Registry.</p>
+<p>Ok, we have Prompt Flow (Builds) -&gt; Model -&gt; Endpoint (Empty) -&gt; Environment. So what is the next and the last step to push travelers(request) to the castle(endpoint) ?</p>
+<h3 id="deployment-facing-the-final-boss">Deployment: Facing the Final Boss</h3>
+<p>Deployment
+This is last boss who is waiting for us and need to be finished. Here we need to gather all the information about our previous road -&gt; model, environment, and the endpoint need to be entered to the deployment, but we also need to provide SKU (VM) and assign the traffic.</p>
+<p>Then if we get green light, the boss is finished and our castle can welcome travelers.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
