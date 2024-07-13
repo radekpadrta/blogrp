@@ -12,7 +12,6 @@ tags:
   - LLMOps
 ---
 
-## Creating and Hosting an AI Solution Using Prompt Flow
 
 Let's talk about why we chose the Prompt Flow. 
 In the AI world, we wanted to have one place where we could build our AI solutions and  we wanted to have platform where other developers could easily collaborate. And this is a great use case for Prompt Flow, which works as an orchestration tool for our builds.
