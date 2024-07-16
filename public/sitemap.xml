@@ -2,16 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/azure/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/feature-flags/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zet/articles/feature-flags/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zet/</loc>
+    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/azure/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/zet/articles/creating-and-hosting-an-ai-solution-using-prompt-flow/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/llmops/</loc>
@@ -21,12 +33,6 @@
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/prompt-flow/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/zet/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/az104/</loc>
