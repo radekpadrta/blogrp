@@ -10,7 +10,7 @@ tags:
 ---
 
 
-This article is about finding a way to create feature flags on a Web app or App configuration. This is the result of my notes, where I tried to find a solution. 
+This article is about finding a way how to create feature flags on a Web app or App configuration. This is the result of my notes, where I tried to find a solution. 
 
 ### Environment Variables
 On Azure web app, there is an option to use **environment variables**, but it is not a good approach if you don't want to get alerts. The alerts can be created because your app will be restarted if you assign the variable. The app will be offline for some time. This means if you need to rewrite the variable in the future, you always need to restart the app. So this option was out because of the bigger web app, and we did not want to have it offline for some time.
