@@ -7,6 +7,7 @@ description:
 tags:
   - AZ104
   - Certification
+  - Azure
 ---
 I started to prepare for a new certification, AZ-104. As a Cloud Engineer who mainly works with Azure, this certification is one of the must-haves.
 

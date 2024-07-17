@@ -10,7 +10,29 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Road to AZ104 v2</title>
+      <link>http://localhost:1313/zet/articles/road-to-az104-v2/</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zet/articles/road-to-az104-v2/</guid>
+      <description>How is it going with Road to AZ104?
+At the start, I felt a lot of energy. I make at least one test every day, which takes approximately 1-2 hours.
+I tested myself on Cloud Guru, Azure Learning, and I am newly testing myself on Examtopics, which was suggested by my colleague. There are actual questions from the exam, but I think the approach to memorizing them feels bad to me.</description>
+      <content:encoded><![CDATA[<p>How is it going with <a href="https://www.radekpadrta.cz/zet/articles/road-to-az104/">Road to AZ104</a>?</p>
+<hr>
+<p>At the start, I felt a lot of energy. I make at least one test every day, which takes approximately 1-2 hours.</p>
+<p>I tested myself on Cloud Guru, Azure Learning, and I am newly testing myself on Examtopics, which was suggested by my colleague. There are actual questions from the exam, but I think the approach to memorizing them feels bad to me.. and there is soo much question, I dont have brain for it:)</p>
+<p>Need to say I got a more than 70% only a few times&hellip;</p>
+<p>In the meantime, I watched John Savill&rsquo;s <a href="https://www.youtube.com/watch?v=9DuTWSvsLXM&amp;t=3711s&amp;ab_channel=JohnSavill%27sTechnicalTraining">Networking Master Class</a>. Networking is a part that I am not strong in, so I am trying to work on it.</p>
+<p>I also started watching <a href="https://www.youtube.com/watch?v=0Knf9nub4-k&amp;t=3275s&amp;ab_channel=JohnSavill%27sTechnicalTraining">Azure 104 Study Cram</a> from John Savill, which I think gave me a lot. I want to watch it one more time.</p>
+<p>I need to mention, I don&rsquo;t take many notes. I take notes only if I fail on some questions, but I do not take notes through the videos. This can be a problem, but I need to think positively before the test. After the fight, we can try a different way.</p>
+<p>The plan is to focus mainly next week on the exam and check the Study Cram one more time. And then take action!</p>
+<p>Let&rsquo;s see if we can make it :)</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Feature flags - App Configuration and Web App</title>
       <link>http://localhost:1313/zet/articles/feature-flags/</link>
