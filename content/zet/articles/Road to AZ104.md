@@ -25,3 +25,4 @@ I made my first attempt today on the Azure portal and scored only 44%.
 However, I don't feel bad about it. Scoring 44% on the first attempt is good, and I realized that I was just making some dumb mistakes and I was a bit hurry. Looking forward to next improvements.
 
 
+[Road to Azure v2](https://www.radekpadrta.cz/zet/articles/road-to-az104-v2/)
