@@ -16,7 +16,7 @@ How is it going with [Road to AZ104](https://www.radekpadrta.cz/zet/articles/roa
 
 At the start, I felt a lot of energy. I make at least one test every day, which takes approximately 1-2 hours.
 
-I tested myself on Cloud Guru, Azure Learning, and I am newly testing myself on Examtopics, which was suggested by my colleague. There are actual questions from the exam, but I think the approach to memorizing them feels bad to me.. and there is soo much question, I dont have brain for it:)
+I tested myself on Cloud Guru, Azure Learning, and I am newly testing myself on Examtopics, which was suggested by my colleague. There are actual questions from the exam, but I think the approach to memorizing them... there is soo much question, I dont have brain for it:)
 
 Need to say I got a more than 70% only a few times...
 
