@@ -82,9 +82,7 @@ params:
     - name: github
       url: "https://github.com/radekpadrta"
     - name: mdi-resume
-      url: "https://www.cv.radekpadrta.cz" 
-    - name: mdi-microsoft
-      url: "https://learn.microsoft.com/en-us/users/radekpadrta/"   
+      url: "https://www.cv.radekpadrta.cz"  
 
 
   cover:
