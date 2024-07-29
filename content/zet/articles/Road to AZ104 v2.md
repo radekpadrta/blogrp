@@ -29,3 +29,6 @@ I need to mention, I don't take many notes. I take notes only if I fail on some 
 The plan is to focus mainly next week on the exam and check the Study Cram one more time. And then take action! 
 
 Let's see if we can make it :)
+
+
+[Road to Azure v3](https://www.radekpadrta.cz/zet/articles/road-to-az104-v3/)

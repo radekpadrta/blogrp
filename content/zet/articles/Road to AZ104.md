@@ -26,3 +26,4 @@ However, I don't feel bad about it. Scoring 44% on the first attempt is good, an
 
 
 [Road to Azure v2](https://www.radekpadrta.cz/zet/articles/road-to-az104-v2/)
+[Road to Azure v3](https://www.radekpadrta.cz/zet/articles/road-to-az104-v3/)

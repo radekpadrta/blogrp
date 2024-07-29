@@ -10,7 +10,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/az104/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/az104/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Road to AZ104 - Done 🎉</title>
+      <link>http://localhost:1313/zet/articles/road-to-az104-v3/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zet/articles/road-to-az104-v3/</guid>
+      <description>Few days before exam For my last preparation, I reviewed John Savill&amp;rsquo;s Study Cram which can be found here Road to Azure v2. And I did one test with 50-60 questions (about 1-2 hour for each) every day. Two days ago I got only 70% and the mood was not ok. I tested myself in my hometown when I visited my family so there was distraction to get the test done.</description>
+      <content:encoded><![CDATA[<h3 id="few-days-before-exam">Few days before exam</h3>
+<p>For my last preparation, I reviewed John Savill&rsquo;s Study Cram which can be found here <a href="https://www.radekpadrta.cz/zet/articles/road-to-az104-v2/">Road to Azure v2</a>. And I did one test with 50-60 questions (about 1-2 hour for each) every day. Two days ago I got only 70% and the mood was not ok. I tested myself in my hometown when I visited my family so there was distraction to get the test done. I woke up early the next day before the test day and tried another exam and I got 92%, so it gave me some confidence.</p>
+<p>In the evening I watched the last 1 hour from Study cram and then I shut down my brain. I wanted to not think about the exam, just think about the present moment.</p>
+<h3 id="test-day">Test day</h3>
+<p>I took the exam at 8AM so I woke up at 6AM, got a huge breakfast from my girlfriend, watched some YT videos, hit the toilet a few times and then I went to the exam. On the way to the test center I listened to some dopamine boost music. Then I hit the toilet one more time and here we go.</p>
+<h3 id="the-two-hour-challenge">The Two-Hour Challenge</h3>
+<p>The test was for two hours, when I sat at the computer I wasn&rsquo;t really nervous as I was supposed to be in the past. It&rsquo;s just a certification..</p>
+<p>But after a few questions I was nervous. The certification was really tough! I got thoughts like: &ldquo;When can I schedule the next attempt&rdquo;, &ldquo;I am totally confused&rdquo;, &ldquo;The time is ticking, no time&rdquo;.. and these thoughts made me nervous.
+In another way there was still the spirit in a different part of my head, that said, fuck it be logical and just read the question, don&rsquo;t think so much about the question and just try to make it.</p>
+<p>The spirit was the correct one.</p>
+<h2 id="we-finished-it">We finished it!</h2>
+<p>After 2 hours I saw the result and there was PASS. I didn&rsquo;t say anything in my head. I just smiled at the monitor. We managed it and we beat it!</p>
+<p>Some of these questions were really something I hadn&rsquo;t experienced. And that means there is huge room to improve my skills!</p>
+<p>And here are these:
+<img loading="lazy" src="/AZCerts.png" type="" alt=""  /></p>
+<p><a href="https://www.radekpadrta.cz/zet/articles/road-to-az104-v1/">Road to Azure v1</a>
+<a href="https://www.radekpadrta.cz/zet/articles/road-to-az104-v2/">Road to Azure v2</a></p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Road to AZ104 v2</title>
       <link>http://localhost:1313/zet/articles/road-to-az104-v2/</link>
@@ -19,17 +46,18 @@
       <guid>http://localhost:1313/zet/articles/road-to-az104-v2/</guid>
       <description>How is it going with Road to AZ104?
 At the start, I felt a lot of energy. I make at least one test every day, which takes approximately 1-2 hours.
-I tested myself on Cloud Guru, Azure Learning, and I am newly testing myself on Examtopics, which was suggested by my colleague. There are actual questions from the exam, but I think the approach to memorizing them feels bad to me.</description>
+I tested myself on Cloud Guru, Azure Learning, and I am newly testing myself on Examtopics, which was suggested by my colleague. There are actual questions from the exam, but I think the approach to memorizing them&amp;hellip; there is soo much question, I dont have brain for it:)</description>
       <content:encoded><![CDATA[<p>How is it going with <a href="https://www.radekpadrta.cz/zet/articles/road-to-az104/">Road to AZ104</a>?</p>
 <hr>
 <p>At the start, I felt a lot of energy. I make at least one test every day, which takes approximately 1-2 hours.</p>
-<p>I tested myself on Cloud Guru, Azure Learning, and I am newly testing myself on Examtopics, which was suggested by my colleague. There are actual questions from the exam, but I think the approach to memorizing them feels bad to me.</p>
-<p>I need to say I got a score of more than 70% only a few times&hellip;</p>
+<p>I tested myself on Cloud Guru, Azure Learning, and I am newly testing myself on Examtopics, which was suggested by my colleague. There are actual questions from the exam, but I think the approach to memorizing them&hellip; there is soo much question, I dont have brain for it:)</p>
+<p>Need to say I got a more than 70% only a few times&hellip;</p>
 <p>In the meantime, I watched John Savill&rsquo;s <a href="https://www.youtube.com/watch?v=9DuTWSvsLXM&amp;t=3711s&amp;ab_channel=JohnSavill%27sTechnicalTraining">Networking Master Class</a>. Networking is a part that I am not strong in, so I am trying to work on it.</p>
 <p>I also started watching <a href="https://www.youtube.com/watch?v=0Knf9nub4-k&amp;t=3275s&amp;ab_channel=JohnSavill%27sTechnicalTraining">Azure 104 Study Cram</a> from John Savill, which I think gave me a lot. I want to watch it one more time.</p>
 <p>I need to mention, I don&rsquo;t take many notes. I take notes only if I fail on some questions, but I do not take notes through the videos. This can be a problem, but I need to think positively before the test. After the fight, we can try a different way.</p>
 <p>The plan is to focus mainly next week on the exam and check the Study Cram one more time. And then take action!</p>
 <p>Let&rsquo;s see if we can make it :)</p>
+<p><a href="https://www.radekpadrta.cz/zet/articles/road-to-az104-v3/">Road to Azure v3</a></p>
 ]]></content:encoded>
     </item>
     
@@ -48,6 +76,8 @@ I made it as my main quest for this month to push myself and stay committed, I a
 <h3 id="first-practice-exam-attempt">First Practice Exam Attempt</h3>
 <p>I made my first attempt today on the Azure portal and scored only 44%.</p>
 <p>However, I don&rsquo;t feel bad about it. Scoring 44% on the first attempt is good, and I realized that I was just making some dumb mistakes and I was a bit hurry. Looking forward to next improvements.</p>
+<p><a href="https://www.radekpadrta.cz/zet/articles/road-to-az104-v2/">Road to Azure v2</a>
+<a href="https://www.radekpadrta.cz/zet/articles/road-to-az104-v3/">Road to Azure v3</a></p>
 ]]></content:encoded>
     </item>
     
