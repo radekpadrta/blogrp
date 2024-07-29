@@ -31,4 +31,5 @@ The plan is to focus mainly next week on the exam and check the Study Cram one m
 Let's see if we can make it :)
 
 
+[Road to Azure v1](https://www.radekpadrta.cz/zet/articles/road-to-az104/)
 [Road to Azure v3](https://www.radekpadrta.cz/zet/articles/road-to-az104-v3/)

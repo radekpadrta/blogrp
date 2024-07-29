@@ -35,5 +35,5 @@ Some of these questions were really something I hadn't experienced. And that mea
 And here are these:
 ![](/AZCerts.png)
 
-[Road to Azure v1](https://www.radekpadrta.cz/zet/articles/road-to-az104-v1/)
+[Road to Azure v1](https://www.radekpadrta.cz/zet/articles/road-to-az104/)
 [Road to Azure v2](https://www.radekpadrta.cz/zet/articles/road-to-az104-v2/)
