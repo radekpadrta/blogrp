@@ -7,6 +7,7 @@ description:
 tags:
   - Azure
   - DevOps
+  - Automation
 ---
 
 ### Automation Process

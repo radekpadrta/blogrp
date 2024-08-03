@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Automation on Radek Padrta</title>
+    <link>http://localhost:1313/tags/automation/</link>
+    <description>Recent content in Automation on Radek Padrta</description>
+    <image>
+      <url>http://localhost:1313/cloudhammer.svg</url>
+      <link>http://localhost:1313/cloudhammer.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation of Pull Requests</title>
+      <link>http://localhost:1313/zet/articles/automationofthepr/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zet/articles/automationofthepr/</guid>
+      <description>Automation Process One of my projects was to create an automation process to build a Web App when a PR is created.
+Anyone with access to the Repo can easily build the WebApp for their Use Case, for example to quickly build a webpage with something for an individual client. No need to come to a Developer and say we need this and the developer will spend time to prepare the thing.</description>
+      <content:encoded><![CDATA[<h3 id="automation-process">Automation Process</h3>
+<p>One of my projects was to create an automation process to build a Web App when a PR is created.</p>
+<p>Anyone with access to the Repo can easily build the WebApp for their Use Case, for example to quickly build a webpage with something for an individual client. No need to come to a Developer and say we need this and the developer will spend time to prepare the thing. The Web App should be like a template for users.</p>
+<p>I have prepared an environment which needs to be built if the solution is needed. So imagine Franta Flinta needs a web app which can be shown in a presentation.</p>
+<p>He will come to GitHub and he will create a PR request. He puts a label &ldquo;Create Environment&rdquo; there and the magic starts.</p>
+<h3 id="pipeline-workflow">Pipeline Workflow</h3>
+<p>Choosing the label &ldquo;Create Environment&rdquo;, triggers the pipeline. The Pipeline is creating the whole process.</p>
+<ul>
+<li>Building the ACR image</li>
+<li>Creating the App Service Plan</li>
+<li>Creating the Web App</li>
+<li>Assigning Managed Identity</li>
+<li>Assigning AcrPull Role</li>
+<li>Setting env variables</li>
+<li>Restarting the Web App</li>
+</ul>
+<p>Web App In the repo we have the code and Dockerfile prepared.</p>
+<p>It&rsquo;s the same with closing PR. If you unlabeled the label or close the PR, there is another Pipeline which destroys everything that was built.</p>
+<p>You&rsquo;re now thinking how the user will get the address back to the GitHub repo?
+We are using just webhooks and the webhook payload can be accessed in the Pipeline. So we are checking the number.</p>
+<p>The number references the issue/PR and then we know where we need to send the comments.
+So after correct steps we always inform the user about the process of the solution.</p>
+<h3 id="solution">Solution</h3>
+<p><img loading="lazy" src="/Autoamtion.png" type="" alt=""  /></p>
+<h3 id="improvements">Improvements?</h3>
+<p>Yes, there are, and these are everywhere.</p>
+<p>What I want to do is to create an action to check how long the Web App has been up, so we can remove it after a certain time period and save money.
+Also, there can be some field in the PR which can be extracted in the Pipeline, and the Pipeline will assign the variable into the Code.
+Lastly, what I&rsquo;m thinking is to get info to the user if something bad happened during the creation of the solution.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
