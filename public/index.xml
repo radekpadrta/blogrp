@@ -10,7 +10,31 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a home business 🏡</title>
+      <link>http://localhost:1313/zet/articles/create-business/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/zet/articles/create-business/</guid>
+      <description>Idea On 14.7.24, my girlfriend and I came up with an idea. We watched a video on how to start a business. It was the first video related to this topic which we watched, and after that, we brainstormed together to figure out a topic we both liked.
+We got some ideas, and our journey start that day. :)
+Research and Development I can’t tell right now what we want to do.</description>
+      <content:encoded><![CDATA[<h2 id="idea">Idea</h2>
+<p>On 14.7.24, my girlfriend and I came up with an idea. We watched a video on how to start a business. It was the first video related to this topic which we watched, and after that, we brainstormed together to figure out a topic we both liked.</p>
+<p>We got some ideas, and our journey start that day. :)</p>
+<h3 id="research-and-development">Research and Development</h3>
+<p>I can’t tell right now what we want to do.. this will be a little surprise. What I can tell is that we are doing a lot of research on how to create and build our product and how to satisfy our customers. We also know that there may be no success, and we could invest money in something that might not return anything.</p>
+<p>We are aware of the risk, but we still decided to give it a try. It is a really good experience to have, and for our personal growth, it can be just beneficial.</p>
+<p>So, let’s grab it and share this journey!</p>
+<h3 id="revised-focus">Revised Focus</h3>
+<p>Initially, I planned to write primarily about the Cloud/DevOps journey and explore the Kubernetes field. While that is still on the program, the priority has changed little bit. I now want to share our experience in building a small home business.</p>
+<p>But looking forward to jump and learn that field.</p>
+<h4 id="sneak-peek">Sneak Peek</h4>
+<p>AI</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Automation of Pull Requests</title>
       <link>http://localhost:1313/zet/articles/automationofthepr/</link>

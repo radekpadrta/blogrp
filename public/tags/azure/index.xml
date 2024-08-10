@@ -42,7 +42,7 @@ We are using just webhooks and the webhook payload can be accessed in the Pipeli
 <p>The number references the issue/PR and then we know where we need to send the comments.
 So after correct steps we always inform the user about the process of the solution.</p>
 <h3 id="solution">Solution</h3>
-<p></p>
+<p><img loading="lazy" src="/Autoamtion.png" type="" alt=""  /></p>
 <h3 id="improvements">Improvements?</h3>
 <p>Yes, there are, and these are everywhere.</p>
 <p>What I want to do is to create an action to check how long the Web App has been up, so we can remove it after a certain time period and save money.
