@@ -16,7 +16,7 @@ We got some ideas, and our journey start that day. :)
 
 ### Research and Development
 
-I can’t tell right now what we want to do.. this will be a little surprise. What I can tell is that we are doing a lot of research on how to create and build our product and how to satisfy our customers. We also know that there may be no success, and we could invest money in something that might not return anything.
+I can’t tell right now what we want to do.. this will be a little surprise. What I can tell is that we are doing a lot of research on how to create and build our product and how to satisfy our future customers. We also know that there may be no success, and we could invest money in something that might not return anything.
 
 We are aware of the risk, but we still decided to give it a try. It is a really good experience to have, and for our personal growth, it can be just beneficial. 
 
