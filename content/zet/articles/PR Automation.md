@@ -89,7 +89,7 @@ We don’t need to worry about webhooks or payloads, and we don’t use any cond
 The only things we need to configure is how to get the URL of the preview environment and how to choose which app we want to build.
 
 ##### What is cool?
-If the code is in GitHub, it’s easy to set up Actions, understand, and maintain. One PR = One App, though setting up Actions for multiple apps might be challenging.
+If the code is in GitHub, it’s easy to set up Actions, understand, and maintain. One PR = One App. I working now on how to make it more flexible, so hopefully, in the next post, there will be some progress. But overall, it's best solution. 
 
 ##### What is bad?
 We don’t work with the payload, making it difficult to create flexible tasks. Additionally, we don’t see what is happening in GitHub Actions, for example when it sends information to users.
