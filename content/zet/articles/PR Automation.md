@@ -1,15 +1,13 @@
 ---
 author:
   - Radek Padrta
-title: Public Speaking at Mambo Jambo
+title: PR Automation
 date: 2024-08-19
 description: 
 tags:
   - Azure
   - DevOps
 ---
-
-# PRAutomation
 
 We have a couple of codes in one repository, each creates a web application. We need to create the web app with an environment that will be short-lived, allowing someone to test the app within short time period.
 
