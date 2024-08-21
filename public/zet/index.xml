@@ -12,16 +12,15 @@
     <language>en</language>
     <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zet/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Public Speaking at Mambo Jambo</title>
+      <title>PR Automation</title>
       <link>http://localhost:1313/zet/articles/pr-automation/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/zet/articles/pr-automation/</guid>
-      <description>PRAutomation We have a couple of codes in one repository, each creates a web application. We need to create the web app with an environment that will be short-lived, allowing someone to test the app within short time period.
+      <description>We have a couple of codes in one repository, each creates a web application. We need to create the web app with an environment that will be short-lived, allowing someone to test the app within short time period.
 We want to automate the process, and one way to do that is to build the solution through a Pull Request.
 Why through Pull Request? Imagine you created an application or just some feature in your app.</description>
-      <content:encoded><![CDATA[<h1 id="prautomation">PRAutomation</h1>
-<p>We have a couple of codes in one repository, each creates a web application. We need to create the web app with an environment that will be short-lived, allowing someone to test the app within short time period.</p>
+      <content:encoded><![CDATA[<p>We have a couple of codes in one repository, each creates a web application. We need to create the web app with an environment that will be short-lived, allowing someone to test the app within short time period.</p>
 <p>We want to automate the process, and one way to do that is to build the solution through a Pull Request.</p>
 <h2 id="why-through-pull-request">Why through Pull Request?</h2>
 <p>Imagine you created an application or just some feature in your app. You don’t want to push it to the production environment, but rather to a short-lived environment, to ensure that everything is okay and to decide if you can merge the PR request, for example, to the main branch. The short-lived environment provides us with a space to test the application.</p>
@@ -67,7 +66,7 @@ For this, we have a pipeline with many conditions that check what is needed and 
 <p>We don’t need to worry about webhooks or payloads, and we don’t use any conditions. Everything is handled in a different way, which we don&rsquo;t see.</p>
 <p>The only things we need to configure is how to get the URL of the preview environment and how to choose which app we want to build.</p>
 <h5 id="what-is-cool-1">What is cool?</h5>
-<p>If the code is in GitHub, it’s easy to set up Actions, understand, and maintain. One PR = One App, though setting up Actions for multiple apps might be challenging.</p>
+<p>If the code is in GitHub, it’s easy to set up Actions, understand, and maintain. One PR = One App. I working now on how to make it more flexible, so hopefully, in the next post, there will be some progress. But overall, it&rsquo;s best solution.</p>
 <h5 id="what-is-bad-2">What is bad?</h5>
 <p>We don’t work with the payload, making it difficult to create flexible tasks. Additionally, we don’t see what is happening in GitHub Actions, for example when it sends information to users.</p>
 <h2 id="conclusion">Conclusion</h2>
