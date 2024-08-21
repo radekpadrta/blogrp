@@ -1,4 +1,3 @@
-
 ---
 author:
 - Radek Padrta
