@@ -23,16 +23,7 @@ The third thing is about online presence. It means being more active from my sid
 In the meantime, you can see a few pictures from Madeira and more on my Instagram, don't hesitate to connect with me there.
 
 
-
-
-
-#### LINKS:
-
-
-
-
-30-08-2024-20:07
-
----
-
-[[]]
+![](/madeira1.jpg)
+![](/madeira2.jpg)
+![](/madeira3.jpg)
+![](/baf.gif.mp4)
