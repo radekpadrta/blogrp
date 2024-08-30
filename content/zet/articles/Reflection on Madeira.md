@@ -26,4 +26,3 @@ In the meantime, you can see a few pictures from Madeira and more on my [Instagr
 ![](/madeira1.jpg)
 ![](/madeira2.jpg)
 ![](/madeira3.jpg)
-![](/baf.mp4)
