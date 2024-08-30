@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/madeira/</loc>
+    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zet/articles/reflection-on-madeira/</loc>
+    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/travel/</loc>
+    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/zet/</loc>
+    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/azure/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/devops/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/zet/articles/pr-automation/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-08-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/zet/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/zet/articles/create-business/</loc>

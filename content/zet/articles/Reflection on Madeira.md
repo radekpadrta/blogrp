@@ -1,12 +1,12 @@
 ---
 author:
-  - Radek Padrta
+  - Radek Padrta
 title: Reflection on Madeira
 date: 2024-08-31
-description:
+description: 
 tags:
-  - Travel
-  - Madeira
+  - Travel
+  - Madeira
 ---
 
 We are in Madeira, our fifth day here. Overall, I am really enjoying my time on this beautiful Portuguese island... It is giving me really good practice in driving!
