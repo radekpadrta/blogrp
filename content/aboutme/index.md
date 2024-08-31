@@ -15,8 +15,7 @@ I also want to mention my two helpers who assist me with everything I do when I 
 ## About This Website
 This blog is personal space where I’ll be documenting and sharing my thoughts and experiences. Whether you’re here to learn, get inspired, or just enjoy some engaging content, I hope you’ll find something valuable and interesting.
 
-
-### Why Take Notes?
+### Writing
 I believe that sharing my thoughts and the things I'm working on will help me relax and improve my discipline. Why relax? In recent months, when I implemented my note-taking system and started writing about my days, I noticed that writing has a positive effect on me. Instead of overthinking, I simply write down my thoughts and leave them in the system, then I can access them if needed. This practice allows me to organize my ideas better and also reflect on my progress.
 
 My mission is to share two posts per month and reflect on personal growth, Cloud/DevOps and learnings.
