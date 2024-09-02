@@ -9,7 +9,7 @@ tags:
   - Madeira
 ---
 
-As I write this, we are six days into our Madeiran exploration. Overall, I am really enjoying my time on this beautiful Portuguese island... It is giving me really good practice in driving!
+As I write this, we are six days into our Madeira exploration. Overall, I am really enjoying my time on this beautiful Portuguese island... It is giving me really good practice in driving!
 
 ### New road
 And it is a good time to reflect on my journey and set new plans for myself. There were a few changes in the last week, one of them being about my job. I decided to accept a new job offer, which means there will be a lot of new opportunities to learn in few weeks. From job interviews and some of my own research, I feel like it was a good decision, and I believe it will have also a huge impact on my journey as the current job!
