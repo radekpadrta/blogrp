@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Feature Flags on Radek Padrta</title>
-    <link>http://localhost:1313/tags/feature-flags/</link>
+    <link>http://localhost:52172/tags/feature-flags/</link>
     <description>Recent content in Feature Flags on Radek Padrta</description>
     <image>
-      <url>http://localhost:1313/cloudhammer.svg</url>
-      <link>http://localhost:1313/cloudhammer.svg</link>
+      <url>http://localhost:52172/cloudhammer.svg</url>
+      <link>http://localhost:52172/cloudhammer.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/feature-flags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52172/tags/feature-flags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Feature flags - App Configuration and Web App</title>
-      <link>http://localhost:1313/zet/articles/feature-flags/</link>
+      <link>http://localhost:52172/zet/articles/feature-flags/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zet/articles/feature-flags/</guid>
+      <guid>http://localhost:52172/zet/articles/feature-flags/</guid>
       <description>This article is about finding a way how to create feature flags on a Web app or App configuration. This is the result of my notes, where I tried to find a solution.
 Environment Variables On Azure web app, there is an option to use environment variables, but it is not a good approach if you don&amp;rsquo;t want to get alerts. The alerts can be created because your app will be restarted if you assign the variable.</description>
       <content:encoded><![CDATA[<p>This article is about finding a way how to create feature flags on a Web app or App configuration. This is the result of my notes, where I tried to find a solution.</p>

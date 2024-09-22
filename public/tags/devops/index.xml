@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DevOps on Radek Padrta</title>
-    <link>http://localhost:1313/tags/devops/</link>
+    <link>http://localhost:52172/tags/devops/</link>
     <description>Recent content in DevOps on Radek Padrta</description>
     <image>
-      <url>http://localhost:1313/cloudhammer.svg</url>
-      <link>http://localhost:1313/cloudhammer.svg</link>
+      <url>http://localhost:52172/cloudhammer.svg</url>
+      <link>http://localhost:52172/cloudhammer.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52172/tags/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PR Automation</title>
-      <link>http://localhost:1313/zet/articles/pr-automation/</link>
+      <link>http://localhost:52172/zet/articles/pr-automation/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zet/articles/pr-automation/</guid>
+      <guid>http://localhost:52172/zet/articles/pr-automation/</guid>
       <description>We have a couple of codes in one repository, each creates a web application. We need to create the web app with an environment that will be short-lived, allowing someone to test the app within short time period.
 We want to automate the process, and one way to do that is to build the solution through a Pull Request.
 Why through Pull Request? Imagine you created an application or just some feature in your app.</description>
@@ -82,10 +82,10 @@ For this, we have a pipeline with many conditions that check what is needed and 
     
     <item>
       <title>Automation of Pull Requests</title>
-      <link>http://localhost:1313/zet/articles/automationofthepr/</link>
+      <link>http://localhost:52172/zet/articles/automationofthepr/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zet/articles/automationofthepr/</guid>
+      <guid>http://localhost:52172/zet/articles/automationofthepr/</guid>
       <description>Automation Process One of my projects was to create an automation process to build a Web App when a PR is created.
 Anyone with access to the Repo can easily build the WebApp for their Use Case, for example to quickly build a webpage with something for an individual client. No need to come to a Developer and say we need this and the developer will spend time to prepare the thing.</description>
       <content:encoded><![CDATA[<h3 id="automation-process">Automation Process</h3>

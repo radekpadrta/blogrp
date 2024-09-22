@@ -2,151 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Radek Padrta</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:52172/tags/</link>
     <description>Recent content in Tags on Radek Padrta</description>
     <image>
-      <url>http://localhost:1313/cloudhammer.svg</url>
-      <link>http://localhost:1313/cloudhammer.svg</link>
+      <url>http://localhost:52172/cloudhammer.svg</url>
+      <link>http://localhost:52172/cloudhammer.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52172/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Madeira</title>
-      <link>http://localhost:1313/tags/madeira/</link>
+      <link>http://localhost:52172/tags/madeira/</link>
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/madeira/</guid>
+      <guid>http://localhost:52172/tags/madeira/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/tags/travel/</link>
+      <link>http://localhost:52172/tags/travel/</link>
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/travel/</guid>
+      <guid>http://localhost:52172/tags/travel/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Azure</title>
-      <link>http://localhost:1313/tags/azure/</link>
+      <link>http://localhost:52172/tags/azure/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/azure/</guid>
+      <guid>http://localhost:52172/tags/azure/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>DevOps</title>
-      <link>http://localhost:1313/tags/devops/</link>
+      <link>http://localhost:52172/tags/devops/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/devops/</guid>
+      <guid>http://localhost:52172/tags/devops/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Home Business</title>
-      <link>http://localhost:1313/tags/home-business/</link>
+      <link>http://localhost:52172/tags/home-business/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/home-business/</guid>
+      <guid>http://localhost:52172/tags/home-business/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>AZ104</title>
-      <link>http://localhost:1313/tags/az104/</link>
+      <link>http://localhost:52172/tags/az104/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/az104/</guid>
+      <guid>http://localhost:52172/tags/az104/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Certification</title>
-      <link>http://localhost:1313/tags/certification/</link>
+      <link>http://localhost:52172/tags/certification/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/certification/</guid>
+      <guid>http://localhost:52172/tags/certification/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Feature Flags</title>
-      <link>http://localhost:1313/tags/feature-flags/</link>
+      <link>http://localhost:52172/tags/feature-flags/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/feature-flags/</guid>
+      <guid>http://localhost:52172/tags/feature-flags/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>http://localhost:52172/tags/ai/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>http://localhost:52172/tags/ai/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>LLMOps</title>
-      <link>http://localhost:1313/tags/llmops/</link>
+      <link>http://localhost:52172/tags/llmops/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/llmops/</guid>
+      <guid>http://localhost:52172/tags/llmops/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Machine Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
+      <link>http://localhost:52172/tags/machine-learning/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <guid>http://localhost:52172/tags/machine-learning/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Prompt Flow</title>
-      <link>http://localhost:1313/tags/prompt-flow/</link>
+      <link>http://localhost:52172/tags/prompt-flow/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/prompt-flow/</guid>
+      <guid>http://localhost:52172/tags/prompt-flow/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Mambo Jambo</title>
-      <link>http://localhost:1313/tags/mambo-jambo/</link>
+      <link>http://localhost:52172/tags/mambo-jambo/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/mambo-jambo/</guid>
+      <guid>http://localhost:52172/tags/mambo-jambo/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
     
     <item>
       <title>Public Speaking</title>
-      <link>http://localhost:1313/tags/public-speaking/</link>
+      <link>http://localhost:52172/tags/public-speaking/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/public-speaking/</guid>
+      <guid>http://localhost:52172/tags/public-speaking/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home on Radek Padrta</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:52172/</link>
     <description>Recent content in Home on Radek Padrta</description>
     <image>
-      <url>http://localhost:1313/cloudhammer.svg</url>
-      <link>http://localhost:1313/cloudhammer.svg</link>
+      <url>http://localhost:52172/cloudhammer.svg</url>
+      <link>http://localhost:52172/cloudhammer.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52172/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflection on Madeira</title>
-      <link>http://localhost:1313/zet/articles/reflection-on-madeira/</link>
+      <link>http://localhost:52172/zet/articles/reflection-on-madeira/</link>
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zet/articles/reflection-on-madeira/</guid>
-      <description>We are in Madeira, our fifth day here. Overall, I am really enjoying my time on this beautiful Portuguese island&amp;hellip; It is giving me really good practice in driving!
+      <guid>http://localhost:52172/zet/articles/reflection-on-madeira/</guid>
+      <description>As I write this, we are six days into our Madeira exploration. Overall, I am really enjoying my time on this beautiful Portuguese island&amp;hellip; It is giving me really good practice in driving!
 New road And it is a good time to reflect on my journey and set new plans for myself. There were a few changes in the last week, one of them being about my job. I decided to accept a new job offer, which means there will be a lot of new opportunities to learn in few weeks.</description>
-      <content:encoded><![CDATA[<p>We are in Madeira, our fifth day here. Overall, I am really enjoying my time on this beautiful Portuguese island&hellip; It is giving me really good practice in driving!</p>
+      <content:encoded><![CDATA[<p>As I write this, we are six days into our Madeira exploration. Overall, I am really enjoying my time on this beautiful Portuguese island&hellip; It is giving me really good practice in driving!</p>
 <h3 id="new-road">New road</h3>
 <p>And it is a good time to reflect on my journey and set new plans for myself. There were a few changes in the last week, one of them being about my job. I decided to accept a new job offer, which means there will be a lot of new opportunities to learn in few weeks. From job interviews and some of my own research, I feel like it was a good decision, and I believe it will have also a huge impact on my journey as the current job!</p>
 <h3 id="home-business">Home business</h3>
-<p>The second thing is about our home business. We have finished all the prep, we made a strategy, and now we are going all in. It requires some investments from our side, mainly time, which is the most valuable thing for us, but we believe it is something we can do over the next 10 years as a hobby. So LFG :)</p>
+<p>The second thing is about our home business. We have finished all the prep, we made a strategy, and now we are going all in. It requires some investments from our side, mainly time, which is the most valuable thing for us, but we believe it is something we can do over the next 10 years as a hobby. So LFG</p>
 <h3 id="online-presence">Online Presence</h3>
 <p>The third thing is about online presence. It means being more active from my side in sharing on social media. I chose LinkedIn, which is also a good place to share my journey, and I will start posting on Instagram. I have a small idea about the content, but this will need to wait for a few days until I am back home.</p>
-<p>In the meantime, you can see a few pictures from Madeira and more on my <a href="https://www.instagram.com/_rapad/">Instagram</a>, don&rsquo;t hesitate to connect with me there.</p>
+<p>In the meantime, you can see a few pictures from Madeira and more on <a href="https://www.instagram.com/_rapad/">Instagram</a>. I would love to connect with you there!</p>
 <p><img loading="lazy" src="/madeira1.jpg" type="" alt=""  />
 <img loading="lazy" src="/madeira2.jpg" type="" alt=""  />
 <img loading="lazy" src="/madeira3.jpg" type="" alt=""  /></p>
@@ -35,10 +35,10 @@ New road And it is a good time to reflect on my journey and set new plans for my
     
     <item>
       <title>PR Automation</title>
-      <link>http://localhost:1313/zet/articles/pr-automation/</link>
+      <link>http://localhost:52172/zet/articles/pr-automation/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zet/articles/pr-automation/</guid>
+      <guid>http://localhost:52172/zet/articles/pr-automation/</guid>
       <description>We have a couple of codes in one repository, each creates a web application. We need to create the web app with an environment that will be short-lived, allowing someone to test the app within short time period.
 We want to automate the process, and one way to do that is to build the solution through a Pull Request.
 Why through Pull Request? Imagine you created an application or just some feature in your app.</description>
@@ -104,10 +104,10 @@ For this, we have a pipeline with many conditions that check what is needed and 
     
     <item>
       <title>Building a home business 🏡</title>
-      <link>http://localhost:1313/zet/articles/create-business/</link>
+      <link>http://localhost:52172/zet/articles/create-business/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zet/articles/create-business/</guid>
+      <guid>http://localhost:52172/zet/articles/create-business/</guid>
       <description>Idea On 14.7.24, my girlfriend and I came up with an idea. We watched a video on how to start a business. It was the first video related to this topic which we watched, and after that, we brainstormed together to figure out a topic we both liked.
 We got some ideas, and our journey start that day. :)
 Research and Development I can’t tell right now what we want to do.</description>
@@ -128,10 +128,10 @@ Research and Development I can’t tell right now what we want to do.</descripti
     
     <item>
       <title>Automation of Pull Requests</title>
-      <link>http://localhost:1313/zet/articles/automationofthepr/</link>
+      <link>http://localhost:52172/zet/articles/automationofthepr/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zet/articles/automationofthepr/</guid>
+      <guid>http://localhost:52172/zet/articles/automationofthepr/</guid>
       <description>Automation Process One of my projects was to create an automation process to build a Web App when a PR is created.
 Anyone with access to the Repo can easily build the WebApp for their Use Case, for example to quickly build a webpage with something for an individual client. No need to come to a Developer and say we need this and the developer will spend time to prepare the thing.</description>
       <content:encoded><![CDATA[<h3 id="automation-process">Automation Process</h3>
@@ -168,10 +168,10 @@ Lastly, what I&rsquo;m thinking is to get info to the user if something bad happ
     
     <item>
       <title>Road to AZ104 - Done 🎉</title>
-      <link>http://localhost:1313/zet/articles/road-to-az104-v3/</link>
+      <link>http://localhost:52172/zet/articles/road-to-az104-v3/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zet/articles/road-to-az104-v3/</guid>
+      <guid>http://localhost:52172/zet/articles/road-to-az104-v3/</guid>
       <description>Few days before exam For my last preparation, I reviewed John Savill&amp;rsquo;s Study Cram which can be found here Road to Azure v2. And I did one test with 50-60 questions (about 1-2 hour for each) every day. Two days ago I got only 70% and the mood was not ok. I tested myself in my hometown when I visited my family so there was distraction to get the test done.</description>
       <content:encoded><![CDATA[<h3 id="few-days-before-exam">Few days before exam</h3>
 <p>For my last preparation, I reviewed John Savill&rsquo;s Study Cram which can be found here <a href="https://www.radekpadrta.cz/zet/articles/road-to-az104-v2/">Road to Azure v2</a>. And I did one test with 50-60 questions (about 1-2 hour for each) every day. Two days ago I got only 70% and the mood was not ok. I tested myself in my hometown when I visited my family so there was distraction to get the test done. I woke up early the next day before the test day and tried another exam and I got 92%, so it gave me some confidence.</p>
@@ -195,10 +195,10 @@ In another way there was still the spirit in a different part of my head, that s
     
     <item>
       <title>Road to AZ104 v2</title>
-      <link>http://localhost:1313/zet/articles/road-to-az104-v2/</link>
+      <link>http://localhost:52172/zet/articles/road-to-az104-v2/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zet/articles/road-to-az104-v2/</guid>
+      <guid>http://localhost:52172/zet/articles/road-to-az104-v2/</guid>
       <description>How is it going with Road to AZ104?
 At the start, I felt a lot of energy. I make at least one test every day, which takes approximately 1-2 hours.
 I tested myself on Cloud Guru, Azure Learning, and I am newly testing myself on Examtopics, which was suggested by my colleague. There are actual questions from the exam, but I think the approach to memorizing them&amp;hellip; there is soo much question, I dont have brain for it:)</description>
@@ -219,10 +219,10 @@ I tested myself on Cloud Guru, Azure Learning, and I am newly testing myself on 
     
     <item>
       <title>Feature flags - App Configuration and Web App</title>
-      <link>http://localhost:1313/zet/articles/feature-flags/</link>
+      <link>http://localhost:52172/zet/articles/feature-flags/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zet/articles/feature-flags/</guid>
+      <guid>http://localhost:52172/zet/articles/feature-flags/</guid>
       <description>This article is about finding a way how to create feature flags on a Web app or App configuration. This is the result of my notes, where I tried to find a solution.
 Environment Variables On Azure web app, there is an option to use environment variables, but it is not a good approach if you don&amp;rsquo;t want to get alerts. The alerts can be created because your app will be restarted if you assign the variable.</description>
       <content:encoded><![CDATA[<p>This article is about finding a way how to create feature flags on a Web app or App configuration. This is the result of my notes, where I tried to find a solution.</p>
@@ -261,10 +261,10 @@ scope:https://management.azure.com/.default
     
     <item>
       <title>Creating and Hosting an AI Solution Using Prompt Flow</title>
-      <link>http://localhost:1313/zet/articles/creating-and-hosting-an-ai-solution-using-prompt-flow/</link>
+      <link>http://localhost:52172/zet/articles/creating-and-hosting-an-ai-solution-using-prompt-flow/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zet/articles/creating-and-hosting-an-ai-solution-using-prompt-flow/</guid>
+      <guid>http://localhost:52172/zet/articles/creating-and-hosting-an-ai-solution-using-prompt-flow/</guid>
       <description>Let&amp;rsquo;s talk about why we chose the Prompt Flow. In the AI world, we wanted to have one place where we could build our AI solutions and we wanted to have platform where other developers could easily collaborate. And this is a great use case for Prompt Flow, which works as an orchestration tool for our builds.
 We built two solutions. Our vision was to get metadata from some article and alternative text from pictures, and then each solution needed a final step: a translator to translate the results into different languages.</description>
       <content:encoded><![CDATA[<p>Let&rsquo;s talk about why we chose the Prompt Flow.
@@ -290,10 +290,10 @@ This is last boss who is waiting for us and need to be finished. Here we need to
     
     <item>
       <title>Road to AZ104</title>
-      <link>http://localhost:1313/zet/articles/road-to-az104/</link>
+      <link>http://localhost:52172/zet/articles/road-to-az104/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zet/articles/road-to-az104/</guid>
+      <guid>http://localhost:52172/zet/articles/road-to-az104/</guid>
       <description>I started to prepare for a new certification, AZ-104. As a Cloud Engineer who mainly works with Azure, this certification is one of the must-haves.
 I made it as my main quest for this month to push myself and stay committed, I already scheduled the onsite exam for July 29th at 8 AM. I believe that early time is the best for me to be sharp and this gives me 25 days to prepare.</description>
       <content:encoded><![CDATA[<p>I started to prepare for a new certification, AZ-104. As a Cloud Engineer who mainly works with Azure, this certification is one of the must-haves.</p>
@@ -310,10 +310,10 @@ I made it as my main quest for this month to push myself and stay committed, I a
     
     <item>
       <title>Public Speaking at Mambo Jambo</title>
-      <link>http://localhost:1313/zet/articles/public-speaking-mambo-jambo/</link>
+      <link>http://localhost:52172/zet/articles/public-speaking-mambo-jambo/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/zet/articles/public-speaking-mambo-jambo/</guid>
+      <guid>http://localhost:52172/zet/articles/public-speaking-mambo-jambo/</guid>
       <description>I worked on new things in my new job when we built a solution -&amp;gt; In a high-level overview, we built an end-to-end solution and created an automated orchestration service for our AI builds.
 I presented the documentation and the solution in our meetings, and the guys from my team told me that I should present this at Mambo Jambo. Initially, I thought, &amp;ldquo;hell no,&amp;rdquo; because I can&amp;rsquo;t speak like a C1 English speaker, and I had never tried public speaking before.</description>
       <content:encoded><![CDATA[<p>I worked on new things in my new job when we built a solution -&gt; In a high-level overview, we built an end-to-end solution and created an automated orchestration service for our AI builds.</p>
