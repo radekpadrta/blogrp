@@ -81,10 +81,13 @@ params:
       url: "https://www.linkedin.com/in/radekpadrta/"
     - name: github
       url: "https://github.com/radekpadrta"
-    - name: mdi-resume
+    - name: resume
       url: "https://www.cv.radekpadrta.cz"   
     - name: instagram
-      url: "https://www.instagram.com/_rapad/"  
+      url: "https://www.instagram.com/_rapad/"
+    - name: substack
+      url: "https://radekpadrta.substack.com/"
+
 
   cover:
     hidden: false # hide everywhere but not in structured data

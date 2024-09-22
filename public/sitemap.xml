@@ -2,8 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:52531/tags/e-shop/</loc>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:52531/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52531/tags/home-business/</loc>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52531/tags/shopify/</loc>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52531/zet/articles/shopify-build-v2/</loc>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52531/tags/</loc>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52531/zet/</loc>
+    <lastmod>2024-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:52531/zet/articles/shopify-start-v1/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:52531/tags/madeira/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
@@ -11,13 +32,7 @@
     <loc>http://localhost:52531/zet/articles/reflection-on-madeira/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52531/tags/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:52531/tags/travel/</loc>
-    <lastmod>2024-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52531/zet/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:52531/tags/azure/</loc>
@@ -30,9 +45,6 @@
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:52531/zet/articles/create-business/</loc>
-    <lastmod>2024-08-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52531/tags/home-business/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:52531/zet/articles/automationofthepr/</loc>

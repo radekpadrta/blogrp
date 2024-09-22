@@ -10,7 +10,37 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52531/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52531/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>E-Shop</title>
+      <link>http://localhost:52531/tags/e-shop/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52531/tags/e-shop/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Home Business</title>
+      <link>http://localhost:52531/tags/home-business/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52531/tags/home-business/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Shopify</title>
+      <link>http://localhost:52531/tags/shopify/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52531/tags/shopify/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
     <item>
       <title>Madeira</title>
       <link>http://localhost:52531/tags/madeira/</link>
@@ -47,16 +77,6 @@
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:52531/tags/devops/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Home Business</title>
-      <link>http://localhost:52531/tags/home-business/</link>
-      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:52531/tags/home-business/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>

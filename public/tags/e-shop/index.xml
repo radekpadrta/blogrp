@@ -39,5 +39,31 @@ After we built a language selector, I also wanted a currency selector. It should
 ]]></content:encoded>
     </item>
     
+    <item>
+      <title>Shopify build v1 - language</title>
+      <link>http://localhost:52531/zet/articles/shopify-start-v1/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52531/zet/articles/shopify-start-v1/</guid>
+      <description>We are pushing our Home Business in these last days.
+One of the things we need is an e-shop, and this is the task I’m taking care of. I was deciding between two e-commerce platforms. It was between Tilda and Shopify. The winner is Shopify, and it was a nice choice from a developer’s perspective.
+First steps It was about selecting our online store Theme. I chose the Studio Theme, which was the cleanest one I saw, and I already have some vision in my mind on how to improve it.</description>
+      <content:encoded><![CDATA[<p>We are pushing our Home Business in these last days.</p>
+<p>One of the things we need is an e-shop, and this is the task I’m taking care of. I was deciding between two e-commerce platforms. It was between Tilda and Shopify. The winner is Shopify, and it was a nice choice from a developer’s perspective.</p>
+<h2 id="first-steps">First steps</h2>
+<p>It was about selecting our online store Theme. I chose the Studio Theme, which was the cleanest one I saw, and I already have some vision in my mind on how to improve it.</p>
+<p>I spent some time playing with the portal. It was my first experience with an e-commerce portal, and there are a lot of things I need to learn, but I’m looking forward to it!</p>
+<p>When I had a demo page with a demo product ready, I tried to set up the payment methods. It took me a few hours to complete it because I was mainly stuck with Apple Pay methods, but then it somehow started working. I love those problems which are solved just by time :)</p>
+<h2 id="create-local-environment-for-build">Create local environment for build</h2>
+<p>I decided that would be good to switch from the Shopify portal to VSCode and try to make it more custom. So I can show a little bit of myself. And I enjoy making things prettier and user-friendly.</p>
+<p>I installed Shopify CLI and Ruby on my machine and got the files from the Shopify portal. Then I connected Shopify with my GitHub account. So now I have a repo where I can push changes, and those changes can be reflected in my e-shop.</p>
+<p>Mainly what I wanted to accomplish was to have a local environment and test the e-shop on my local machine. So I don’t need manual interaction with the portal to see my tests and changes.</p>
+<h2 id="first-code">First code</h2>
+<p>Everything is written in .liquid. I was a little bit scared because I didn’t know what it was, but then I played with it one evening with my Claude AI fellow, and we made one feature already work.</p>
+<p>Now on our e-shop, if a customer wants to select a language, they will get the option to choose between two languages - Czech and English.</p>
+<p>The translation needs a couple more hours, but this step will be one of the last ones.</p>
+]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>
