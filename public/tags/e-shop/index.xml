@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>E-Shop on Radek Padrta</title>
+    <link>http://localhost:52531/tags/e-shop/</link>
+    <description>Recent content in E-Shop on Radek Padrta</description>
+    <image>
+      <url>http://localhost:52531/cloudhammer.svg</url>
+      <link>http://localhost:52531/cloudhammer.svg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52531/tags/e-shop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shopify build v2 - currency / structure</title>
+      <link>http://localhost:52531/zet/articles/shopify-build-v2/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:52531/zet/articles/shopify-build-v2/</guid>
+      <description>Currency selector After we built a language selector, I also wanted a currency selector. It should be good to have the option to send packages anywhere, and people don’t want to see everything in Czech currency. We built markets in Shopify. I divided it into three pillars:
+Czech Europe International Europe and International contain a few countries which I selected, just those where I saw potential.
+When we set the markets, then I needed to send rates for shipping.</description>
+      <content:encoded><![CDATA[<p>Currency selector
+After we built a language selector, I also wanted a currency selector. It should be good to have the option to send packages anywhere, and people don’t want to see everything in Czech currency. We built markets in Shopify. I divided it into three pillars:</p>
+<ul>
+<li>Czech</li>
+<li>Europe</li>
+<li>International</li>
+</ul>
+<p>Europe and International contain a few countries which I selected, just those where I saw potential.</p>
+<p>When we set the markets, then I needed to send rates for shipping. I put there just test prices; this needs more time to correctly set it.</p>
+<p>And that setting gives me a pretty boring currency header. I wanted to have it better… It should be nice if users already understand -&gt; “here I can select currency for my country”.</p>
+<p>Then I start tinkering with a code and I put an image of currency there, and in the wrapper, we can search countries! When you hover over a particular country, you will see the currency which will be shown on the page. But this is not all.. I already set geolocation, so if you are, for example, from Canada, you should see everything with Canadian currency. It should be automatic, but you know, it’s better to be prepared :)</p>
+<p>Below the currency is me, just a demo photo from 9th grade from primary school :) And the scroll bar needs some tuning too!</p>
+<h2 id="structure">Structure</h2>
+<p>Then I started playing with the structure of the website. Here is the plan:</p>
+<p>We will have two pillars of products. Each pillar has its own collections. And when you click the collections, you will see products of each collection. It’s maybe a lot for customers.. maybe you need to give them a lot of options that they can choose from on the main page.</p>
+<p>This can be a good approach if you want to show everything in one check, but I also would like to have some system in our e-shop, and I think this will provide a better user experience for customers, to navigate a little bit and really find the treasure they are searching for.</p>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>
