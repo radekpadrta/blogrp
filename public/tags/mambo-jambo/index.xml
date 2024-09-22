@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mambo Jambo on Radek Padrta</title>
-    <link>http://localhost:52172/tags/mambo-jambo/</link>
+    <link>http://localhost:52261/tags/mambo-jambo/</link>
     <description>Recent content in Mambo Jambo on Radek Padrta</description>
     <image>
-      <url>http://localhost:52172/cloudhammer.svg</url>
-      <link>http://localhost:52172/cloudhammer.svg</link>
+      <url>http://localhost:52261/cloudhammer.svg</url>
+      <link>http://localhost:52261/cloudhammer.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52172/tags/mambo-jambo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52261/tags/mambo-jambo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Public Speaking at Mambo Jambo</title>
-      <link>http://localhost:52172/zet/articles/public-speaking-mambo-jambo/</link>
+      <link>http://localhost:52261/zet/articles/public-speaking-mambo-jambo/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52172/zet/articles/public-speaking-mambo-jambo/</guid>
+      <guid>http://localhost:52261/zet/articles/public-speaking-mambo-jambo/</guid>
       <description>I worked on new things in my new job when we built a solution -&amp;gt; In a high-level overview, we built an end-to-end solution and created an automated orchestration service for our AI builds.
 I presented the documentation and the solution in our meetings, and the guys from my team told me that I should present this at Mambo Jambo. Initially, I thought, &amp;ldquo;hell no,&amp;rdquo; because I can&amp;rsquo;t speak like a C1 English speaker, and I had never tried public speaking before.</description>
       <content:encoded><![CDATA[<p>I worked on new things in my new job when we built a solution -&gt; In a high-level overview, we built an end-to-end solution and created an automated orchestration service for our AI builds.</p>

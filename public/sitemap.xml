@@ -2,95 +2,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:52172/</loc>
+    <loc>http://localhost:52261/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/madeira/</loc>
+    <loc>http://localhost:52261/tags/madeira/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/zet/articles/reflection-on-madeira/</loc>
+    <loc>http://localhost:52261/zet/articles/reflection-on-madeira/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/</loc>
+    <loc>http://localhost:52261/tags/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/travel/</loc>
+    <loc>http://localhost:52261/tags/travel/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/zet/</loc>
+    <loc>http://localhost:52261/zet/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/azure/</loc>
+    <loc>http://localhost:52261/tags/azure/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/devops/</loc>
+    <loc>http://localhost:52261/tags/devops/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/zet/articles/pr-automation/</loc>
+    <loc>http://localhost:52261/zet/articles/pr-automation/</loc>
     <lastmod>2024-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/zet/articles/create-business/</loc>
+    <loc>http://localhost:52261/zet/articles/create-business/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/home-business/</loc>
+    <loc>http://localhost:52261/tags/home-business/</loc>
     <lastmod>2024-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/zet/articles/automationofthepr/</loc>
+    <loc>http://localhost:52261/zet/articles/automationofthepr/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/az104/</loc>
+    <loc>http://localhost:52261/tags/az104/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/certification/</loc>
+    <loc>http://localhost:52261/tags/certification/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/zet/articles/road-to-az104-v3/</loc>
+    <loc>http://localhost:52261/zet/articles/road-to-az104-v3/</loc>
     <lastmod>2024-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/zet/articles/road-to-az104-v2/</loc>
+    <loc>http://localhost:52261/zet/articles/road-to-az104-v2/</loc>
     <lastmod>2024-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/feature-flags/</loc>
+    <loc>http://localhost:52261/tags/feature-flags/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/zet/articles/feature-flags/</loc>
+    <loc>http://localhost:52261/zet/articles/feature-flags/</loc>
     <lastmod>2024-07-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/ai/</loc>
+    <loc>http://localhost:52261/tags/ai/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/zet/articles/creating-and-hosting-an-ai-solution-using-prompt-flow/</loc>
+    <loc>http://localhost:52261/zet/articles/creating-and-hosting-an-ai-solution-using-prompt-flow/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/llmops/</loc>
+    <loc>http://localhost:52261/tags/llmops/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/machine-learning/</loc>
+    <loc>http://localhost:52261/tags/machine-learning/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/prompt-flow/</loc>
+    <loc>http://localhost:52261/tags/prompt-flow/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/zet/articles/road-to-az104/</loc>
+    <loc>http://localhost:52261/zet/articles/road-to-az104/</loc>
     <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/mambo-jambo/</loc>
+    <loc>http://localhost:52261/tags/mambo-jambo/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/tags/public-speaking/</loc>
+    <loc>http://localhost:52261/tags/public-speaking/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/zet/articles/public-speaking-mambo-jambo/</loc>
+    <loc>http://localhost:52261/zet/articles/public-speaking-mambo-jambo/</loc>
     <lastmod>2024-06-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:52172/current/</loc>
+    <loc>http://localhost:52261/current/</loc>
   </url><url>
-    <loc>http://localhost:52172/categories/</loc>
+    <loc>http://localhost:52261/categories/</loc>
   </url><url>
-    <loc>http://localhost:52172/archives/</loc>
+    <loc>http://localhost:52261/archives/</loc>
   </url><url>
-    <loc>http://localhost:52172/search/</loc>
+    <loc>http://localhost:52261/search/</loc>
   </url><url>
-    <loc>http://localhost:52172/aboutme/</loc>
+    <loc>http://localhost:52261/aboutme/</loc>
   </url>
 </urlset>

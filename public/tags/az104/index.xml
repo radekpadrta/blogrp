@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AZ104 on Radek Padrta</title>
-    <link>http://localhost:52172/tags/az104/</link>
+    <link>http://localhost:52261/tags/az104/</link>
     <description>Recent content in AZ104 on Radek Padrta</description>
     <image>
-      <url>http://localhost:52172/cloudhammer.svg</url>
-      <link>http://localhost:52172/cloudhammer.svg</link>
+      <url>http://localhost:52261/cloudhammer.svg</url>
+      <link>http://localhost:52261/cloudhammer.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52172/tags/az104/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52261/tags/az104/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Road to AZ104 - Done 🎉</title>
-      <link>http://localhost:52172/zet/articles/road-to-az104-v3/</link>
+      <link>http://localhost:52261/zet/articles/road-to-az104-v3/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52172/zet/articles/road-to-az104-v3/</guid>
+      <guid>http://localhost:52261/zet/articles/road-to-az104-v3/</guid>
       <description>Few days before exam For my last preparation, I reviewed John Savill&amp;rsquo;s Study Cram which can be found here Road to Azure v2. And I did one test with 50-60 questions (about 1-2 hour for each) every day. Two days ago I got only 70% and the mood was not ok. I tested myself in my hometown when I visited my family so there was distraction to get the test done.</description>
       <content:encoded><![CDATA[<h3 id="few-days-before-exam">Few days before exam</h3>
 <p>For my last preparation, I reviewed John Savill&rsquo;s Study Cram which can be found here <a href="https://www.radekpadrta.cz/zet/articles/road-to-az104-v2/">Road to Azure v2</a>. And I did one test with 50-60 questions (about 1-2 hour for each) every day. Two days ago I got only 70% and the mood was not ok. I tested myself in my hometown when I visited my family so there was distraction to get the test done. I woke up early the next day before the test day and tried another exam and I got 92%, so it gave me some confidence.</p>
@@ -40,10 +40,10 @@ In another way there was still the spirit in a different part of my head, that s
     
     <item>
       <title>Road to AZ104 v2</title>
-      <link>http://localhost:52172/zet/articles/road-to-az104-v2/</link>
+      <link>http://localhost:52261/zet/articles/road-to-az104-v2/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52172/zet/articles/road-to-az104-v2/</guid>
+      <guid>http://localhost:52261/zet/articles/road-to-az104-v2/</guid>
       <description>How is it going with Road to AZ104?
 At the start, I felt a lot of energy. I make at least one test every day, which takes approximately 1-2 hours.
 I tested myself on Cloud Guru, Azure Learning, and I am newly testing myself on Examtopics, which was suggested by my colleague. There are actual questions from the exam, but I think the approach to memorizing them&amp;hellip; there is soo much question, I dont have brain for it:)</description>
@@ -64,10 +64,10 @@ I tested myself on Cloud Guru, Azure Learning, and I am newly testing myself on 
     
     <item>
       <title>Road to AZ104</title>
-      <link>http://localhost:52172/zet/articles/road-to-az104/</link>
+      <link>http://localhost:52261/zet/articles/road-to-az104/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52172/zet/articles/road-to-az104/</guid>
+      <guid>http://localhost:52261/zet/articles/road-to-az104/</guid>
       <description>I started to prepare for a new certification, AZ-104. As a Cloud Engineer who mainly works with Azure, this certification is one of the must-haves.
 I made it as my main quest for this month to push myself and stay committed, I already scheduled the onsite exam for July 29th at 8 AM. I believe that early time is the best for me to be sharp and this gives me 25 days to prepare.</description>
       <content:encoded><![CDATA[<p>I started to prepare for a new certification, AZ-104. As a Cloud Engineer who mainly works with Azure, this certification is one of the must-haves.</p>

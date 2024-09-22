@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Azure on Radek Padrta</title>
-    <link>http://localhost:52172/tags/azure/</link>
+    <link>http://localhost:52261/tags/azure/</link>
     <description>Recent content in Azure on Radek Padrta</description>
     <image>
-      <url>http://localhost:52172/cloudhammer.svg</url>
-      <link>http://localhost:52172/cloudhammer.svg</link>
+      <url>http://localhost:52261/cloudhammer.svg</url>
+      <link>http://localhost:52261/cloudhammer.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52172/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52261/tags/azure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PR Automation</title>
-      <link>http://localhost:52172/zet/articles/pr-automation/</link>
+      <link>http://localhost:52261/zet/articles/pr-automation/</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52172/zet/articles/pr-automation/</guid>
+      <guid>http://localhost:52261/zet/articles/pr-automation/</guid>
       <description>We have a couple of codes in one repository, each creates a web application. We need to create the web app with an environment that will be short-lived, allowing someone to test the app within short time period.
 We want to automate the process, and one way to do that is to build the solution through a Pull Request.
 Why through Pull Request? Imagine you created an application or just some feature in your app.</description>
@@ -82,10 +82,10 @@ For this, we have a pipeline with many conditions that check what is needed and 
     
     <item>
       <title>Automation of Pull Requests</title>
-      <link>http://localhost:52172/zet/articles/automationofthepr/</link>
+      <link>http://localhost:52261/zet/articles/automationofthepr/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52172/zet/articles/automationofthepr/</guid>
+      <guid>http://localhost:52261/zet/articles/automationofthepr/</guid>
       <description>Automation Process One of my projects was to create an automation process to build a Web App when a PR is created.
 Anyone with access to the Repo can easily build the WebApp for their Use Case, for example to quickly build a webpage with something for an individual client. No need to come to a Developer and say we need this and the developer will spend time to prepare the thing.</description>
       <content:encoded><![CDATA[<h3 id="automation-process">Automation Process</h3>
@@ -122,10 +122,10 @@ Lastly, what I&rsquo;m thinking is to get info to the user if something bad happ
     
     <item>
       <title>Road to AZ104 - Done 🎉</title>
-      <link>http://localhost:52172/zet/articles/road-to-az104-v3/</link>
+      <link>http://localhost:52261/zet/articles/road-to-az104-v3/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52172/zet/articles/road-to-az104-v3/</guid>
+      <guid>http://localhost:52261/zet/articles/road-to-az104-v3/</guid>
       <description>Few days before exam For my last preparation, I reviewed John Savill&amp;rsquo;s Study Cram which can be found here Road to Azure v2. And I did one test with 50-60 questions (about 1-2 hour for each) every day. Two days ago I got only 70% and the mood was not ok. I tested myself in my hometown when I visited my family so there was distraction to get the test done.</description>
       <content:encoded><![CDATA[<h3 id="few-days-before-exam">Few days before exam</h3>
 <p>For my last preparation, I reviewed John Savill&rsquo;s Study Cram which can be found here <a href="https://www.radekpadrta.cz/zet/articles/road-to-az104-v2/">Road to Azure v2</a>. And I did one test with 50-60 questions (about 1-2 hour for each) every day. Two days ago I got only 70% and the mood was not ok. I tested myself in my hometown when I visited my family so there was distraction to get the test done. I woke up early the next day before the test day and tried another exam and I got 92%, so it gave me some confidence.</p>
@@ -149,10 +149,10 @@ In another way there was still the spirit in a different part of my head, that s
     
     <item>
       <title>Road to AZ104 v2</title>
-      <link>http://localhost:52172/zet/articles/road-to-az104-v2/</link>
+      <link>http://localhost:52261/zet/articles/road-to-az104-v2/</link>
       <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52172/zet/articles/road-to-az104-v2/</guid>
+      <guid>http://localhost:52261/zet/articles/road-to-az104-v2/</guid>
       <description>How is it going with Road to AZ104?
 At the start, I felt a lot of energy. I make at least one test every day, which takes approximately 1-2 hours.
 I tested myself on Cloud Guru, Azure Learning, and I am newly testing myself on Examtopics, which was suggested by my colleague. There are actual questions from the exam, but I think the approach to memorizing them&amp;hellip; there is soo much question, I dont have brain for it:)</description>
@@ -173,10 +173,10 @@ I tested myself on Cloud Guru, Azure Learning, and I am newly testing myself on 
     
     <item>
       <title>Feature flags - App Configuration and Web App</title>
-      <link>http://localhost:52172/zet/articles/feature-flags/</link>
+      <link>http://localhost:52261/zet/articles/feature-flags/</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52172/zet/articles/feature-flags/</guid>
+      <guid>http://localhost:52261/zet/articles/feature-flags/</guid>
       <description>This article is about finding a way how to create feature flags on a Web app or App configuration. This is the result of my notes, where I tried to find a solution.
 Environment Variables On Azure web app, there is an option to use environment variables, but it is not a good approach if you don&amp;rsquo;t want to get alerts. The alerts can be created because your app will be restarted if you assign the variable.</description>
       <content:encoded><![CDATA[<p>This article is about finding a way how to create feature flags on a Web app or App configuration. This is the result of my notes, where I tried to find a solution.</p>
@@ -215,10 +215,10 @@ scope:https://management.azure.com/.default
     
     <item>
       <title>Creating and Hosting an AI Solution Using Prompt Flow</title>
-      <link>http://localhost:52172/zet/articles/creating-and-hosting-an-ai-solution-using-prompt-flow/</link>
+      <link>http://localhost:52261/zet/articles/creating-and-hosting-an-ai-solution-using-prompt-flow/</link>
       <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52172/zet/articles/creating-and-hosting-an-ai-solution-using-prompt-flow/</guid>
+      <guid>http://localhost:52261/zet/articles/creating-and-hosting-an-ai-solution-using-prompt-flow/</guid>
       <description>Let&amp;rsquo;s talk about why we chose the Prompt Flow. In the AI world, we wanted to have one place where we could build our AI solutions and we wanted to have platform where other developers could easily collaborate. And this is a great use case for Prompt Flow, which works as an orchestration tool for our builds.
 We built two solutions. Our vision was to get metadata from some article and alternative text from pictures, and then each solution needed a final step: a translator to translate the results into different languages.</description>
       <content:encoded><![CDATA[<p>Let&rsquo;s talk about why we chose the Prompt Flow.
@@ -244,10 +244,10 @@ This is last boss who is waiting for us and need to be finished. Here we need to
     
     <item>
       <title>Road to AZ104</title>
-      <link>http://localhost:52172/zet/articles/road-to-az104/</link>
+      <link>http://localhost:52261/zet/articles/road-to-az104/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52172/zet/articles/road-to-az104/</guid>
+      <guid>http://localhost:52261/zet/articles/road-to-az104/</guid>
       <description>I started to prepare for a new certification, AZ-104. As a Cloud Engineer who mainly works with Azure, this certification is one of the must-haves.
 I made it as my main quest for this month to push myself and stay committed, I already scheduled the onsite exam for July 29th at 8 AM. I believe that early time is the best for me to be sharp and this gives me 25 days to prepare.</description>
       <content:encoded><![CDATA[<p>I started to prepare for a new certification, AZ-104. As a Cloud Engineer who mainly works with Azure, this certification is one of the must-haves.</p>
