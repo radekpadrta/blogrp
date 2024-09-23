@@ -12,6 +12,8 @@ Outside of work, I like to study about my field, read manga, hit the gym or spen
 
 I also want to mention my two helpers who assist me with everything I do when I am at home: our cats, Jojo and Buba:)
 
+![](/bubajojo.jpg)
+
 ## About This Website
 This blog is personal space where I’ll be documenting and sharing my thoughts and experiences. Whether you’re here to learn, get inspired, or just enjoy some engaging content, I hope you’ll find something valuable and interesting.
 

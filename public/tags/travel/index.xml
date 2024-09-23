@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Travel on Radek Padrta</title>
-    <link>http://localhost:52531/tags/travel/</link>
+    <link>http://localhost:1313/tags/travel/</link>
     <description>Recent content in Travel on Radek Padrta</description>
     <image>
-      <url>http://localhost:52531/cloudhammer.svg</url>
-      <link>http://localhost:52531/cloudhammer.svg</link>
+      <url>http://localhost:1313/cloudhammer.svg</url>
+      <link>http://localhost:1313/cloudhammer.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52531/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/travel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflection on Madeira</title>
-      <link>http://localhost:52531/zet/articles/reflection-on-madeira/</link>
+      <link>http://localhost:1313/zet/articles/reflection-on-madeira/</link>
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52531/zet/articles/reflection-on-madeira/</guid>
+      <guid>http://localhost:1313/zet/articles/reflection-on-madeira/</guid>
       <description>As I write this, we are six days into our Madeira exploration. Overall, I am really enjoying my time on this beautiful Portuguese island&amp;hellip; It is giving me really good practice in driving!
 New road And it is a good time to reflect on my journey and set new plans for myself. There were a few changes in the last week, one of them being about my job. I decided to accept a new job offer, which means there will be a lot of new opportunities to learn in few weeks.</description>
       <content:encoded><![CDATA[<p>As I write this, we are six days into our Madeira exploration. Overall, I am really enjoying my time on this beautiful Portuguese island&hellip; It is giving me really good practice in driving!</p>

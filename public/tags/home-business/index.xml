@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home Business on Radek Padrta</title>
-    <link>http://localhost:52531/tags/home-business/</link>
+    <link>http://localhost:1313/tags/home-business/</link>
     <description>Recent content in Home Business on Radek Padrta</description>
     <image>
-      <url>http://localhost:52531/cloudhammer.svg</url>
-      <link>http://localhost:52531/cloudhammer.svg</link>
+      <url>http://localhost:1313/cloudhammer.svg</url>
+      <link>http://localhost:1313/cloudhammer.svg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:52531/tags/home-business/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/home-business/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shopify build v2 - currency / structure</title>
-      <link>http://localhost:52531/zet/articles/shopify-build-v2/</link>
+      <link>http://localhost:1313/zet/articles/shopify-build-v2/</link>
       <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52531/zet/articles/shopify-build-v2/</guid>
+      <guid>http://localhost:1313/zet/articles/shopify-build-v2/</guid>
       <description>Currency selector After we built a language selector, I also wanted a currency selector. It should be good to have the option to send packages anywhere, and people don’t want to see everything in Czech currency. We built markets in Shopify. I divided it into three pillars:
 Czech Europe International Europe and International contain a few countries which I selected, just those where I saw potential.
 When we set the markets, then I needed to send rates for shipping.</description>
@@ -41,10 +41,10 @@ After we built a language selector, I also wanted a currency selector. It should
     
     <item>
       <title>Shopify build v1 - language</title>
-      <link>http://localhost:52531/zet/articles/shopify-start-v1/</link>
+      <link>http://localhost:1313/zet/articles/shopify-start-v1/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52531/zet/articles/shopify-start-v1/</guid>
+      <guid>http://localhost:1313/zet/articles/shopify-start-v1/</guid>
       <description>We are pushing our Home Business in these last days.
 One of the things we need is an e-shop, and this is the task I’m taking care of. I was deciding between two e-commerce platforms. It was between Tilda and Shopify. The winner is Shopify, and it was a nice choice from a developer’s perspective.
 First steps It was about selecting our online store Theme. I chose the Studio Theme, which was the cleanest one I saw, and I already have some vision in my mind on how to improve it.</description>
@@ -67,10 +67,10 @@ First steps It was about selecting our online store Theme. I chose the Studio Th
     
     <item>
       <title>Building a home business 🏡</title>
-      <link>http://localhost:52531/zet/articles/create-business/</link>
+      <link>http://localhost:1313/zet/articles/create-business/</link>
       <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:52531/zet/articles/create-business/</guid>
+      <guid>http://localhost:1313/zet/articles/create-business/</guid>
       <description>Idea On 14.7.24, my girlfriend and I came up with an idea. We watched a video on how to start a business. It was the first video related to this topic which we watched, and after that, we brainstormed together to figure out a topic we both liked.
 We got some ideas, and our journey start that day. :)
 Research and Development I can’t tell right now what we want to do.</description>
