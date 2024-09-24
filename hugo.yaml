@@ -87,6 +87,8 @@ params:
       url: "https://www.instagram.com/_rapad/"
     - name: substack
       url: "https://radekpadrta.substack.com/"
+    - name: strava
+      url: "https://www.strava.com/athletes/134432401"
 
 
   cover:
