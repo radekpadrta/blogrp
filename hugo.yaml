@@ -74,7 +74,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Stay tuned! Exciting content is on the way..
+    Content: I'm writing about my journey to Substack ↑
 
   socialIcons:
     - name: github
