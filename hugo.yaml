@@ -77,8 +77,6 @@ params:
     Content: Stay tuned! Exciting content is on the way..
 
   socialIcons:
-    - name: linkedin
-      url: "https://www.linkedin.com/in/radekpadrta/"
     - name: github
       url: "https://github.com/radekpadrta"
     - name: resume
@@ -87,8 +85,7 @@ params:
       url: "https://www.instagram.com/_rapad/"
     - name: substack
       url: "https://radekpadrta.substack.com/"
-    - name: strava
-      url: "https://www.strava.com/athletes/134432401"
+
 
 
   cover:
